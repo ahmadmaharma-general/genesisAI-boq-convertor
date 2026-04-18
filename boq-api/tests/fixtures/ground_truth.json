@@ -1,0 +1,134 @@
+{
+  "simple_room_aia.dxf": {
+    "Wall": {
+      "quantity": 36.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 80.0,
+      "unit": "M2"
+    },
+    "Door": {
+      "count": 1,
+      "unit": "NR"
+    },
+    "Window": {
+      "count": 2,
+      "unit": "NR"
+    }
+  },
+  "multi_room_standard.dxf": {
+    "Wall": {
+      "quantity": 54.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 80.0,
+      "unit": "M2"
+    },
+    "Door": {
+      "count": 3,
+      "unit": "NR"
+    },
+    "Window": {
+      "count": 4,
+      "unit": "NR"
+    }
+  },
+  "office_structural.dxf": {
+    "Wall": {
+      "quantity": 70.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 300.0,
+      "unit": "M2"
+    },
+    "Column": {
+      "count": 4,
+      "unit": "NR"
+    },
+    "Beam": {
+      "quantity": 20.0,
+      "unit": "LM"
+    }
+  },
+  "mixed_use_building.dxf": {
+    "Wall": {
+      "quantity": 100.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 600.0,
+      "unit": "M2"
+    },
+    "Door": {
+      "count": 5,
+      "unit": "NR"
+    },
+    "Window": {
+      "count": 8,
+      "unit": "NR"
+    },
+    "Column": {
+      "count": 2,
+      "unit": "NR"
+    }
+  },
+  "nonstandard_layers.dxf": {
+    "Wall": {
+      "quantity": 28.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 48.0,
+      "unit": "M2"
+    },
+    "Door": {
+      "count": 2,
+      "unit": "NR"
+    }
+  },
+  "mixed_conventions.dxf": {
+    "Wall": {
+      "quantity": 54.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 108.0,
+      "unit": "M2"
+    },
+    "Window": {
+      "count": 3,
+      "unit": "NR"
+    }
+  },
+  "edge_cases.dxf": {
+    "Wall": {
+      "quantity": 0.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 25.0,
+      "unit": "M2"
+    }
+  },
+  "german_french_layers.dxf": {
+    "Wall": {
+      "quantity": 36.0,
+      "unit": "LM"
+    },
+    "Slab": {
+      "quantity": 80.0,
+      "unit": "M2"
+    },
+    "Door": {
+      "count": 2,
+      "unit": "NR"
+    },
+    "Window": {
+      "count": 3,
+      "unit": "NR"
+    }
+  }
+}
